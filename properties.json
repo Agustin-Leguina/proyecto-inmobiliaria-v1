@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Casa en Sunchales",
+    "price": "120.000 USD",
+    "location": "Sunchales",
+    "type": "venta",
+    "images": [
+      "https://picsum.photos/600/400?1",
+      "https://picsum.photos/600/400?2",
+      "https://picsum.photos/600/400?3"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Casa en Sunchales",
+    "price": "120.000 USD",
+    "location": "Sunchales",
+    "type": "venta",
+    "images": [
+      "https://www.casasparaconstruir.com/projetos/161/02.jpg",
+      "https://bihomes.es/app/uploads/2022/10/diseno-interiores-salon-casa.jpg",
+      "https://images.adsttc.com/media/images/512a/50ff/b3fc/4b11/a700/8f6f/large_jpg/1303147630-casa-interior-exterior-011.jpg?1414323073"
+    ]
+  },
+    {
+    "id": 3,
+    "title": "Casa en Sunchales",
+    "price": "120.000 USD",
+    "location": "Sunchales",
+    "type": "alquiler",
+    "images": [
+      "https://picsum.photos/600/400?1",
+      "https://picsum.photos/600/400?2",
+      "https://picsum.photos/600/400?3"
+    ]
+  }
+]
