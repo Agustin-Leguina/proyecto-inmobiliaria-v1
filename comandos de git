@@ -1,0 +1,5 @@
+si quiero editar y ver los cambios reflejados en Netlify (produccion)
+
+git add .
+git commit -m "Agrego propiedad en venta"
+git push origin main
